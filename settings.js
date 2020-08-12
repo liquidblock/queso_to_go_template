@@ -10,6 +10,8 @@ module.exports = {
   level_selection: [],
   message_cooldown: 5,
   game_version: 2, // 1 for SMM1, 2 for SMM2
+  locale: 'en', // the selected language
+  locales: ['en'], // all installed language files (within the locales folder)
   commands: {
     open: ['!open'],
     close: ['!close'],
