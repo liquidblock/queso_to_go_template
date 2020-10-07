@@ -63,7 +63,7 @@
 			"current": "{username}''s level removed from the queue."
 		},
 		"modRemove": {
-			"unavailable": "You can use {command_remove} <username> to kick out someone else''s level;  if you want to skip the current one, use !next.",
+			"unavailable": "You can use {command_remove} <username> to kick out someone else''s level;  if you want to skip the current one, use {command_level}.",
 			"current": "Ok, I removed {username}''s level from the queue."
 		}
 	}

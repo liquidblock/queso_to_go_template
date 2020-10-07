@@ -16,7 +16,7 @@ module.exports = {
     open: ['!open'],
     close: ['!close'],
     add: ['!add'],
-    remove: ['!leave', '!remove'],
+    remove: ['!remove', '!leave'],
     replace: ['!replace', '!change', '!swap'],
     level: ['!level'],
     next: ['!next'],
